@@ -12,10 +12,12 @@ body {
     color: #212121;
     background-color: #efefef;
 }
+nav {
+    margin: auto;
+}
 
 main {
     flex: 1 0 auto;
-
 }
 
 footer {
@@ -45,7 +47,6 @@ footer {
 .mainStyle {
     background-color: beige;
     padding: 1rem;
-    padding-top: 0;
 }
 
 .footerStyle {
@@ -56,4 +57,13 @@ footer {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+}
+
+.linkedin a{
+    color: #212121;
+    text-decoration: none;
+}
+
+.linkedin a:hover{
+    color: purple;
 }
