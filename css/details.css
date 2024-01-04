@@ -1,0 +1,22 @@
+.detailText {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h3 {
+    color: rgba(0, 0, 0, 0.945);
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(156, 70, 70);
+}
+
+.detailColor {
+    background-color: #b7e2e0
+}
+
+.detailImage {
+    max-width: 250px;
+}
+
+.content {
+    padding: 20px;
+}

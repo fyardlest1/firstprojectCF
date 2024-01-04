@@ -30,3 +30,7 @@ table {
 .evenrow {
     background-color: #e6e6e6;
 }
+
+h2 {
+    color: blue;
+}
